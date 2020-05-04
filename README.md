@@ -1,6 +1,6 @@
 # SoftwareentwicklungSoSe2020_Aufgabe_02
 
-Dieses Aufgabeblatt adressiert die Grundelemente der Sprache C#.
+Dieses Aufgabeblatt adressiert die Grundelemente der Sprache C# und soll Ihren Arbeitsfluss verbessern. 
 
 ## Bearbeitungzeit
 
@@ -8,7 +8,9 @@ Dieses Aufgabeblatt adressiert die Grundelemente der Sprache C#.
 
 ## Idee der Übung
 
-Mit dem Aufgabeblatt werden die in der Vorlesung vorgestellten Basiskonzepte der Programmiersprache C# vertieft. Dabei wurde bewusst auf Vorlagen verzichtet, so dass Sie gleichzeitig Ihren Arbeitsfluss "trainieren" können. Im Repository wurden jeweils Ordner für die einzelnen Teilaufgaben angelegt, damit wir diese zuordnen können. Teilen Sie sich die Aufgaben auf, legen Sie jeweils ein Issue / Branch an und nutzen Sie das Review-Konzept, um die Inhalte auf den Master-Branch zu publizieren - Kurz gesprochen _Entwickler 1_ schreibt für Aufgabe x den Code, testet ihn und bittet _Entwickler 2_ um die Freigabe.
+Mit dem Aufgabeblatt werden die in der Vorlesung vorgestellten Basiskonzepte der Programmiersprache C# vertieft. Dabei wurde bewusst auf Vorlagen verzichtet, so dass Sie gleichzeitig Ihren Arbeitsfluss "trainieren" können. Im Repository wurden jeweils Ordner für die einzelnen Teilaufgaben angelegt, damit wir diese zuordnen können. 
+
+Teilen Sie sich die Aufgaben auf, legen Sie jeweils ein Issue / Branch an und nutzen Sie das Review-Konzept, um die Inhalte auf den Master-Branch zu publizieren - Kurz gesprochen _Entwickler 1_ schreibt für Aufgabe x den Code, testet ihn und bittet _Entwickler 2_ um die Freigabe.
 
 ## 1. Datentypen, Ein- und Ausgabe
 
@@ -102,3 +104,6 @@ Platzierung | Name
 8	| Julia Simon
 9	| Justine Braisaz
 10 | Lisa Vittozzi
+
+
+**Wir sind gespannt auf Ihre Lösungen!**
