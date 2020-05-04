@@ -106,4 +106,4 @@ Platzierung | Name
 10 | Lisa Vittozzi
 
 
-**Wir sind gespannt auf Ihre Lösungen!**
+**Wir sind auf Ihre Lösungen gespannt!**
